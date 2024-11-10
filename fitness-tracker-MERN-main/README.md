@@ -46,43 +46,20 @@ npm run develop
 #### Example Screenshot
 
 - Home Page <br>
-  ![Screenshot](./client/src/assets/screenshots/1.png)
+  ![Screenshot 2024-11-10 185257](https://github.com/user-attachments/assets/d2117151-6cee-41b9-b178-778a8e16074d)
 
 - Login Page <br>
-  ![Screenshot](./client/src/assets/screenshots/2.png)
+  ![Screenshot 2024-11-10 185328](https://github.com/user-attachments/assets/9aaa4ba2-e3c5-42f1-9292-00a1a7a4721b)
 
 - Exercise Page <br>
-  ![Screenshot](./client/src/assets/screenshots/3.png)
+  ![Screenshot 2024-11-10 184152](https://github.com/user-attachments/assets/0de19164-6cec-47d5-aa13-aa0f164a641c)
 
 - Add Cardio <br>
-  ![Screenshot](./client/src/assets/screenshots/4.png)
-
-- Add Resistance <br>
-  ![Screenshot](./client/src/assets/screenshots/5.png)
+  ![Screenshot 2024-11-10 185608](https://github.com/user-attachments/assets/9d2ece4d-babd-4e76-a147-102ba1ab3d79)
 
 - History Page <br>
-  ![Screenshot](./client/src/assets/screenshots/6.png)
+ ![Screenshot 2024-11-10 202736](https://github.com/user-attachments/assets/fb6fbf78-c302-403e-a781-d2c0fb971cee)
+- Chatbot <br>
+![Screenshot 2024-11-10 203122](https://github.com/user-attachments/assets/aad6b116-d757-4ced-89ee-4de2cb6e69f3)
 
-- Single Cardio History <br>
-  ![Screenshot](./client/src/assets/screenshots/7.png)
-
-- Single Resistance History <br>
-  ![Screenshot](./client/src/assets/screenshots/8.png)
-
-## License
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) <br>
-This project is licensed under MIT, for more information please visit [this website](https://opensource.org/licenses/MIT)
-
-## Contribution
-
-- Icons are from www.flaticon.com
-- Backgroun photos are from www.pexels.com
-- Made with ❤️ by Wenwen Tian
-
-## Questions?
-
-Please feel free to contact me if you need any further information:
-
-- [Email](wwtian9@gmail.com)
-- [Github Profile](https://github.com/joce1ynn)
+  
